@@ -1,0 +1,6 @@
+[package]
+name = "linked_array"
+version = "0.1.0"
+authors = ["Angelo Bulfone <mbulfone@gmail.com>"]
+
+[dependencies]
