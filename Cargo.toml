@@ -5,5 +5,6 @@ authors = ["Angelo Bulfone <mbulfone@gmail.com>"]
 description = "Arbitrarilly long fixed-size arrays."
 categories = ["data-structures", "no-std"]
 license = "MIT"
+repository = "https://github.com/boomshroom/linked_array"
 
 [dependencies]
