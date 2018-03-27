@@ -1,6 +1,6 @@
 [package]
 name = "linked_array"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Angelo Bulfone <mbulfone@gmail.com>"]
 description = "Arbitrarilly long fixed-size arrays."
 categories = ["data-structures", "no-std"]
